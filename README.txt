@@ -28,4 +28,6 @@ NOTE:
 I credit the majority of my code to youtuber Sloan Kelly
 	Server Code: Creating a TCP Server in C++ - https://www.youtube.com/watch?v=WDn-htpBlnU
 	Client Code: Creating a TCP Client in C++ - https://www.youtube.com/watch?v=0Zr_0Jy8mWE
+	
+	Project Showcase: https://www.youtube.com/watch?v=O2W_omaRrOo
 ------------------------------------------------------------------------------------------------
